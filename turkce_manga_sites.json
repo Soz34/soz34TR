@@ -1,0 +1,305 @@
+{
+  "sources": [
+    {
+      "name": "Web Manga Oku",
+      "lang": "tr",
+      "url": "https://webmangaoku.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "Manga-Oku",
+      "lang": "tr",
+      "url": "https://manga-oku.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaTR",
+      "lang": "tr",
+      "url": "https://manga-tr.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "AYATOON",
+      "lang": "tr",
+      "url": "https://ayatoon.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaHane",
+      "lang": "tr",
+      "url": "https://mangahane.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaTepesi",
+      "lang": "tr",
+      "url": "https://mangatepesi.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "ManhwaTR",
+      "lang": "tr",
+      "url": "https://manhwatr.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaTRM",
+      "lang": "tr",
+      "url": "https://mangatrm.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaKasaba",
+      "lang": "tr",
+      "url": "https://mangakasaba.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "GölgeBahçesi",
+      "lang": "tr",
+      "url": "https://golgebahcesi.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaBahçesi",
+      "lang": "tr",
+      "url": "https://mangabahcesi.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaArşivi",
+      "lang": "tr",
+      "url": "https://mangaarsivi.net",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "TRManga",
+      "lang": "tr",
+      "url": "https://trmanga.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "WebtoonTR",
+      "lang": "tr",
+      "url": "https://webtoontr.net",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaSefiri",
+      "lang": "tr",
+      "url": "https://mangasefiri.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "Serimanga",
+      "lang": "tr",
+      "url": "https://serimanga.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "Mangawt",
+      "lang": "tr",
+      "url": "https://mangawt.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "Mangastein",
+      "lang": "tr",
+      "url": "https://mangastein.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaDenizi",
+      "lang": "tr",
+      "url": "https://mangadenizi.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "TrWebtoon",
+      "lang": "tr",
+      "url": "https://trwebtoon.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "Rüyamanga",
+      "lang": "tr",
+      "url": "https://ruyamanga.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "Goddessmanga",
+      "lang": "tr",
+      "url": "https://goddessmanga.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaHanta",
+      "lang": "tr",
+      "url": "https://mangahanta.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "NoxSubs",
+      "lang": "tr",
+      "url": "https://noxsubs.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaDiyarı",
+      "lang": "tr",
+      "url": "https://mangadiyari.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "SadScans",
+      "lang": "tr",
+      "url": "https://sadscans.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaTRList",
+      "lang": "tr",
+      "url": "https://mangatrlist.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaDelisi",
+      "lang": "tr",
+      "url": "https://mangadelisi.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaCafe",
+      "lang": "tr",
+      "url": "https://mangacafe.net",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaFan",
+      "lang": "tr",
+      "url": "https://mangafan.org",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaKing",
+      "lang": "tr",
+      "url": "https://mangaking.net",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaPanda Türkçe",
+      "lang": "tr",
+      "url": "https://mangapanda-tr.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaZone Türkçe",
+      "lang": "tr",
+      "url": "https://mangazonetr.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaRead Türkçe",
+      "lang": "tr",
+      "url": "https://mangaread.org/tr",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaOku (ayrı site)",
+      "lang": "tr",
+      "url": "https://mangaoku.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaTRWorld",
+      "lang": "tr",
+      "url": "https://mangatrworld.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaPark Türkçe",
+      "lang": "tr",
+      "url": "https://mangaparktr.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "AlfaManga",
+      "lang": "tr",
+      "url": "https://alfamanga.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaOkuyucu",
+      "lang": "tr",
+      "url": "https://mangaokuyucu.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaDizi",
+      "lang": "tr",
+      "url": "https://mangadizi.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaSeyfi",
+      "lang": "tr",
+      "url": "https://mangaseyfi.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaEfendisi",
+      "lang": "tr",
+      "url": "https://mangaefendisi.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaAlani",
+      "lang": "tr",
+      "url": "https://mangaalani.com",
+      "active": true,
+      "type": "web"
+    }
+  ]
+}
