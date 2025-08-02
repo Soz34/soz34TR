@@ -300,6 +300,55 @@
       "url": "https://mangaalani.com",
       "active": true,
       "type": "web"
+    },
+    {
+      "name": "MangaMerkezi",
+      "lang": "tr",
+      "url": "https://mangamerkezi.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaKahramani",
+      "lang": "tr",
+      "url": "https://mangakahramani.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaKutuphanesi",
+      "lang": "tr",
+      "url": "https://mangakutuphanesi.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaTutkusu",
+      "lang": "tr",
+      "url": "https://mangatutkusu.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaOkuryurdu",
+      "lang": "tr",
+      "url": "https://mangaokuryurdu.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaKeyfi",
+      "lang": "tr",
+      "url": "https://mangakeyfi.com",
+      "active": true,
+      "type": "web"
+    },
+    {
+      "name": "MangaYurdu",
+      "lang": "tr",
+      "url": "https://mangayurdu.com",
+      "active": true,
+      "type": "web"
     }
   ]
 }

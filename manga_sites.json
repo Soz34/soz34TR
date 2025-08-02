@@ -1,1 +1,202 @@
-[  {"name": "Web Manga Oku", "url": "https://webmangaoku.com"},  {"name": "Manga‑Oku", "url": "https://manga-oku.com"},  {"name": "Manga‑TR", "url": "https://manga-tr.com"},  {"name": "AYATOON", "url": "https://ayatoon.com"},  {"name": "MangaHane", "url": "https://mangahane.com"},  {"name": "MangaTepesi", "url": "https://mangatepesi.com"},  {"name": "ManhwaTR", "url": "https://manhwatr.com"},  {"name": "MangaTRM", "url": "https://mangatrm.com"},  {"name": "MangaKasaba", "url": "https://mangakasaba.com"},  {"name": "GölgeBahçesi", "url": "https://golgebahcesi.com"},  {"name": "MangaBahçesi", "url": "https://mangabahcesi.com"},  {"name": "MangaArşivi", "url": "https://mangaarsivi.net"},  {"name": "TRManga", "url": "https://trmanga.com"},  {"name": "WebtoonTR", "url": "https://webtoontr.net"},  {"name": "MangaSefiri", "url": "https://mangasefiri.com"},  {"name": "Serimanga", "url": "https://serimanga.com"},  {"name": "Mangawt", "url": "https://mangawt.com"},  {"name": "Mangastein", "url": "https://mangastein.com"},  {"name": "MangaDenizi", "url": "https://mangadenizi.com"},  {"name": "TrWebtoon", "url": "https://trwebtoon.com"},  {"name": "Rüyamanga", "url": "https://ruyamanga.com"},  {"name": "Goddessmanga", "url": "https://goddessmanga.com"},  {"name": "MangaHanta", "url": "https://mangahanta.com"},  {"name": "NoxSubs", "url": "https://noxsubs.com"},  {"name": "MangaDiyarı", "url": "https://mangadiyari.com"},  {"name": "SadScans", "url": "https://sadscans.com"},  {"name": "MangaTRList", "url": "https://mangatrlist.com"},  {"name": "MangaDelisi", "url": "https://mangadelisi.com"},  {"name": "MangaCafe", "url": "https://mangacafe.net"},  {"name": "MangaFan", "url": "https://mangafan.org"},  {"name": "MangaKing", "url": "https://mangaking.net"},  {"name": "MangaPanda Türkçe", "url": "https://mangapanda-tr.com"},  {"name": "MangaZone Türkçe", "url": "https://mangazonetr.com"},  {"name": "MangaRead Türkçe", "url": "https://mangaread.org/tr"},  {"name": "MangaOku", "url": "https://mangaoku.com"},  {"name": "MangaTRWorld", "url": "https://mangatrworld.com"},  {"name": "MangaPark Türkçe", "url": "https://mangaparktr.com"},  {"name": "AlfaManga", "url": "https://alfamanga.com"},  {"name": "MangaOkuyucu", "url": "https://mangaokuyucu.com"},  {"name": "MangaDizi", "url": "https://mangadizi.com"},  {"name": "MangaSeyfi", "url": "https://mangaseyfi.com"},  {"name": "MangaEfendisi", "url": "https://mangaefendisi.com"},  {"name": "MangaAlani", "url": "https://mangaalani.com"}]
+[
+  {
+    "name": "Web Manga Oku",
+    "url": "https://webmangaoku.com"
+  },
+  {
+    "name": "Manga‑Oku",
+    "url": "https://manga-oku.com"
+  },
+  {
+    "name": "Manga‑TR",
+    "url": "https://manga-tr.com"
+  },
+  {
+    "name": "AYATOON",
+    "url": "https://ayatoon.com"
+  },
+  {
+    "name": "MangaHane",
+    "url": "https://mangahane.com"
+  },
+  {
+    "name": "MangaTepesi",
+    "url": "https://mangatepesi.com"
+  },
+  {
+    "name": "ManhwaTR",
+    "url": "https://manhwatr.com"
+  },
+  {
+    "name": "MangaTRM",
+    "url": "https://mangatrm.com"
+  },
+  {
+    "name": "MangaKasaba",
+    "url": "https://mangakasaba.com"
+  },
+  {
+    "name": "GölgeBahçesi",
+    "url": "https://golgebahcesi.com"
+  },
+  {
+    "name": "MangaBahçesi",
+    "url": "https://mangabahcesi.com"
+  },
+  {
+    "name": "MangaArşivi",
+    "url": "https://mangaarsivi.net"
+  },
+  {
+    "name": "TRManga",
+    "url": "https://trmanga.com"
+  },
+  {
+    "name": "WebtoonTR",
+    "url": "https://webtoontr.net"
+  },
+  {
+    "name": "MangaSefiri",
+    "url": "https://mangasefiri.com"
+  },
+  {
+    "name": "Serimanga",
+    "url": "https://serimanga.com"
+  },
+  {
+    "name": "Mangawt",
+    "url": "https://mangawt.com"
+  },
+  {
+    "name": "Mangastein",
+    "url": "https://mangastein.com"
+  },
+  {
+    "name": "MangaDenizi",
+    "url": "https://mangadenizi.com"
+  },
+  {
+    "name": "TrWebtoon",
+    "url": "https://trwebtoon.com"
+  },
+  {
+    "name": "Rüyamanga",
+    "url": "https://ruyamanga.com"
+  },
+  {
+    "name": "Goddessmanga",
+    "url": "https://goddessmanga.com"
+  },
+  {
+    "name": "MangaHanta",
+    "url": "https://mangahanta.com"
+  },
+  {
+    "name": "NoxSubs",
+    "url": "https://noxsubs.com"
+  },
+  {
+    "name": "MangaDiyarı",
+    "url": "https://mangadiyari.com"
+  },
+  {
+    "name": "SadScans",
+    "url": "https://sadscans.com"
+  },
+  {
+    "name": "MangaTRList",
+    "url": "https://mangatrlist.com"
+  },
+  {
+    "name": "MangaDelisi",
+    "url": "https://mangadelisi.com"
+  },
+  {
+    "name": "MangaCafe",
+    "url": "https://mangacafe.net"
+  },
+  {
+    "name": "MangaFan",
+    "url": "https://mangafan.org"
+  },
+  {
+    "name": "MangaKing",
+    "url": "https://mangaking.net"
+  },
+  {
+    "name": "MangaPanda Türkçe",
+    "url": "https://mangapanda-tr.com"
+  },
+  {
+    "name": "MangaZone Türkçe",
+    "url": "https://mangazonetr.com"
+  },
+  {
+    "name": "MangaRead Türkçe",
+    "url": "https://mangaread.org/tr"
+  },
+  {
+    "name": "MangaOku",
+    "url": "https://mangaoku.com"
+  },
+  {
+    "name": "MangaTRWorld",
+    "url": "https://mangatrworld.com"
+  },
+  {
+    "name": "MangaPark Türkçe",
+    "url": "https://mangaparktr.com"
+  },
+  {
+    "name": "AlfaManga",
+    "url": "https://alfamanga.com"
+  },
+  {
+    "name": "MangaOkuyucu",
+    "url": "https://mangaokuyucu.com"
+  },
+  {
+    "name": "MangaDizi",
+    "url": "https://mangadizi.com"
+  },
+  {
+    "name": "MangaSeyfi",
+    "url": "https://mangaseyfi.com"
+  },
+  {
+    "name": "MangaEfendisi",
+    "url": "https://mangaefendisi.com"
+  },
+  {
+    "name": "MangaAlani",
+    "url": "https://mangaalani.com"
+  },
+  {
+    "name": "MangaMerkezi",
+    "url": "https://mangamerkezi.com"
+  },
+  {
+    "name": "MangaKahramani",
+    "url": "https://mangakahramani.com"
+  },
+  {
+    "name": "MangaKutuphanesi",
+    "url": "https://mangakutuphanesi.com"
+  },
+  {
+    "name": "MangaTutkusu",
+    "url": "https://mangatutkusu.com"
+  },
+  {
+    "name": "MangaOkuryurdu",
+    "url": "https://mangaokuryurdu.com"
+  },
+  {
+    "name": "MangaKeyfi",
+    "url": "https://mangakeyfi.com"
+  },
+  {
+    "name": "MangaYurdu",
+    "url": "https://mangayurdu.com"
+  }
+]
